@@ -13,3 +13,17 @@ contador = 1
 while contador < 6:
     print(contador)
     contador = contador + 1
+
+
+
+tupla = (1,2,3,4,5)
+
+print(tupla)
+
+lista5em5 = []
+
+lista5em5.append(tupla)
+lista5em5.append(tupla)
+lista5em5.append(tupla)
+
+print(lista5em5)
